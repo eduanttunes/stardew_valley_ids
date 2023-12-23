@@ -42,3 +42,14 @@ h1 {
   width:28px;
   margin:0px auto;
 }
+
+.filter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.filter p {
+  margin: 0 8px 0 0;
+}
